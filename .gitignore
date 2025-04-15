@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+badges/
+Include/
+.idea
+
+get-pip.py
+*.twb
+*.twbr
+*.txt
+*.xml
+*.png
+pyvenv.cfg
+pip-selfcheck.json
